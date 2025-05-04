@@ -68,6 +68,7 @@ If you encounter any issues or have questions, feel free to:
 
 - Open an issue in the [Issues tab](https://github.com/launchpadfw/launchpad/issues).
 - Contact us via our discord server: Coming soon!
+- Check the website: Coming Soon!
 
 We’re here to help!
 
