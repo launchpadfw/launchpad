@@ -4,4 +4,7 @@ version = "0.1.0"
 description = "A batteries-included framework for developing discord bots with persistent data storage and an API."
 readme = "README.md"
 requires-python = ">=3.13"
-dependencies = []
+dependencies = [
+"discord",
+"fastapi"
+]
